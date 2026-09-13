@@ -76,8 +76,8 @@ This policy may be updated. The date at the top of this page reflects the last r
 
 For questions, data access requests, or deletion requests, contact:
 
-[hadtoberxr@gmail.com] [|]
-[https://discord.com/invite/vEcVsGmmBn]
+hadtoberxr@gmail.com ||
+https://discord.com/invite/vEcVsGmmBn
 
 ---
 
